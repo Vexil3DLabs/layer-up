@@ -46,7 +46,7 @@ Test on phone:
    - Close the browser tab for a few minutes, then reopen it. You should see "Welcome back!" and finished prints waiting.
 6. Stop the server with Ctrl+C when done. (The dev server only works while it runs on the PC. A link that works anywhere needs the GitHub repo + Pages step.)
 
-Link that works anywhere (GitHub Pages): workflow and build settings are ready in the repo; it goes live once the repo exists on GitHub and Pages is set to "GitHub Actions" (Settings → Pages → Source). The link will be `https://<your-github-name>.github.io/<repo-name>/`. Record it here once it works.
+**Link that works anywhere (GitHub Pages): https://vexil3dlabs.github.io/layer-up/** — repo: https://github.com/Vexil3DLabs/layer-up (public). It redeploys automatically on every push to `main` (tests must pass first). Open it on your phone, no Wi-Fi setup needed. The save lives in that browser on that device, so the phone and PC have separate saves.
 
 Needs Riaan:
 - Play it and write your feedback in `FEEDBACK.md`, especially: Is the first 5 minutes fun? Is it clear what to do without help?
